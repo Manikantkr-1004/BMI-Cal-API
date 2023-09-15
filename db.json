@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Manikant kumar",
+      "email": "mani@gmail.com",
+      "password": "mani",
+      "history": []
+    }
+  ]
+}
